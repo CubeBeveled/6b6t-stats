@@ -1,0 +1,33 @@
+{
+    "host": "anarchy.6b6t.org",
+    "port": 25565,
+    "version": "1.20.1",
+    "deathMessages": {
+        "enabled": true,
+        "colorless": true
+    },
+    "highlightSettings": {
+        "enabled": true,
+        "chatMessages": true,
+        "connectionMessages": true,
+        "deathMessages": false,
+        "privateMessages": true,
+        "highlightList": [
+            "vined_",
+            "hokindo9000",
+            "c1yd3i",
+            "lil__perp",
+            "Cryobyte",
+            "Norway",
+            "_IKEAA_",
+            "_IKEAAv2__",
+            "_IKEAAv3__",
+            "_IKEAAv4__",
+            "_IKEAAv5__",
+            "Myniany",
+            "fanlimdk",
+            "TomPlaneta",
+            "TNT_jesse"
+        ]
+    }
+}
